@@ -1,0 +1,20 @@
+{
+  "name": "challenge-sass",
+  "version": "1.0.0",
+  "description": "- Repository: `challenge-sass` - Type of Challenge: `Learning Challenge` - Duration: `2 day` - Deployment strategy :  \t- Github page",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch input.scss:input.css --sourcemap=none",
+    "sassmini": "sass --watch input.scss:compressed.css --style compressed --sourcemap=none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceIssar/challenge-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceIssar/challenge-sass/issues"
+  },
+  "homepage": "https://github.com/PrinceIssar/challenge-sass#readme"
+}

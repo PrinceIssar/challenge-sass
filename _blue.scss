@@ -1,0 +1,15 @@
+$paddingBlue:8px;
+$color:blue;
+
+.blue{
+  color: $color;
+  margin: 1px;
+  padding: $paddingBlue;
+
+  h1,h2,h6{
+    color: $color;
+  };
+  h6{
+    padding: 2*$paddingBlue;
+  }
+}
